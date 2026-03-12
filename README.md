@@ -34,4 +34,4 @@ Read **Scripture** and other devotional texts in a clean, focused reading interf
 
 **Developer:** Bicentennial Software  
 
-[Privacy Policy](privacy-policy.html)
+[Privacy Policy](privacy-policy.md)
