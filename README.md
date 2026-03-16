@@ -1,27 +1,30 @@
 # Scripture Sanctuary
 
-A peaceful immersive reading experience for Meta Quest, designed for Scripture reading, reflection, prayer, and devotional study in virtual reality and mixed reality.
+A peaceful immersive reading experience for Meta Quest, designed for Scripture reading, reflection, and devotion in a calm virtual setting.
 
 ## About the App
 
-**Scripture Sanctuary** transforms Bible reading into a calm and immersive experience on **Meta Quest**. Enter a peaceful reading space designed for focus, reflection, and devotion, while keeping the experience simple, comfortable, and easy to use.
+**Scripture Sanctuary** transforms Bible reading into a calm and immersive experience on **Meta Quest**. Enter a peaceful virtual setting designed for quiet reading, reflection, and devotion, while keeping the experience simple, comfortable, and easy to use.
 
-Read from multiple **Bible translations** and devotional texts in a clean VR reading interface built for extended use. Navigate books and chapters with intuitive controller input, quickly jump to any passage, search the text, save bookmarks, and return to where you left off with automatic progress saving.
+Read from a growing library of **Protestant Bible versions**, **Catholic Bible versions**, and the **Book of Common Prayer (BCP)** in a clean, focused reading interface built for VR. Save your place automatically, create **bookmarks**, use **search** to find passages, and quickly jump to books and chapters whenever you want. Controller-based interaction makes it easy to navigate reading materials, saved locations, and devotional content.
 
-The app also supports both **immersive environments** and **passthrough / mixed reality**, giving you the flexibility to read in a fully virtual space or while staying grounded in your real surroundings. Additional comfort and customization options such as **themes**, **font size controls**, **bold text**, **panel opacity**, **time-of-day settings**, and **nature sounds** help create a reading experience that feels peaceful and personal.
+**Scripture Sanctuary** also supports **passthrough**, allowing you to blend your reading experience with your real surroundings when desired. Whether you want full immersion or a more grounded mixed-reality experience, the app is designed to help you slow down, focus, and spend meaningful time in the text.
 
-Whether you are reading Scripture devotionally, revisiting bookmarked passages, searching for a verse, or simply spending quiet time in the text, **Scripture Sanctuary** is designed to help you slow down, focus, and reflect.
+You can also personalize the experience with features like **adjustable font size**, **bold text**, **visual themes**, **panel opacity controls**, **time-of-day settings**, and optional **nature sounds**, creating a reading atmosphere that feels peaceful and personal.
 
 ## Features
 
-- **Immersive VR and Mixed Reality Reading**  
-  Read in a peaceful virtual environment or use passthrough to blend the experience with your real surroundings.
+- **Immersive Reading Environment**  
+  Experience Scripture in a peaceful virtual space designed for focus and reflection.
 
-- **Multiple Bible Versions and Devotional Texts**  
-  Access Scripture across multiple translations along with additional devotional reading content.
+- **Protestant and Catholic Bible Versions**  
+  Read from multiple Bible translations and traditions within one immersive reading experience.
 
-- **Full-Text Search**  
-  Search for words and phrases to quickly find passages and jump directly into the text.
+- **Book of Common Prayer (BCP)**  
+  Access prayer book content alongside Scripture for devotional reading and reflection.
+
+- **Passthrough Support**  
+  Blend the reading experience with your real surroundings for a comfortable mixed-reality option.
 
 - **Bookmarks**  
   Save meaningful passages and return to them easily whenever you like.
@@ -29,29 +32,23 @@ Whether you are reading Scripture devotionally, revisiting bookmarked passages, 
 - **Reading Progress Saving**  
   Your place is saved locally on your device so you can continue where you left off.
 
-- **Quick Jump Navigation**  
-  Jump directly to a specific version, book, and chapter without scrolling through the full reading flow.
+- **Search**  
+  Find passages more easily by searching the text directly inside the app.
 
-- **Comfortable Controller-Based Navigation**  
-  Use intuitive VR controls to move through books, chapters, menus, and saved locations.
+- **Quick Navigation**  
+  Move smoothly between versions, books, and chapters with intuitive controller-based controls.
 
-- **Readable, Customizable Text**  
-  Adjust font size and enable bold text for a more comfortable reading experience.
+- **Customizable Reading Experience**  
+  Adjust font size, use bold text, change themes, and fine-tune panel opacity for comfort and clarity.
 
-- **Visual Theme Options**  
-  Choose from multiple themes to match your preferred reading atmosphere.
+- **Atmospheric Options**  
+  Choose time-of-day settings and optional nature sounds to create a calm devotional atmosphere.
 
-- **Adjustable Panel Opacity**  
-  Fine-tune the reading panel for a more immersive or more transparent mixed-reality experience.
-
-- **Time of Day and Ambient Atmosphere**  
-  Change the scene’s time of day and optionally enable nature sounds for a calmer devotional setting.
-
-- **Designed for Reflection and Devotion**  
-  Built to support quiet reading, prayerful reflection, and focused time in Scripture.
+- **Calm Devotional Atmosphere**  
+  Built to support quiet reading, prayerful reflection, and focused devotional time.
 
 ## Developer Information
 
-**Developer:** Bicentennial Software
+**Developer:** Bicentennial Software  
 
 [Privacy Policy](privacy-policy.md)
