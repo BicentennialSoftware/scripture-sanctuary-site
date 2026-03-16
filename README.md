@@ -6,7 +6,9 @@ A peaceful immersive reading experience for Meta Quest, designed for Scripture r
 
 **Scripture Sanctuary** transforms Bible reading into a calm and immersive experience on **Meta Quest**. Enter a peaceful virtual setting designed for quiet reading, reflection, and devotion, while keeping the experience simple, comfortable, and easy to use.
 
-Read from a growing library of **Protestant Bible versions**, **Catholic Bible versions**, and the **Book of Common Prayer (BCP)** in a clean, focused reading interface built for VR. Save your place automatically, create **bookmarks**, use **search** to find passages, and quickly jump to books and chapters whenever you want. Controller-based interaction makes it easy to navigate reading materials, saved locations, and devotional content.
+Read from a growing library of **Protestant Bible versions**, **Catholic Bible versions**, and the **Book of Common Prayer (BCP)** in a clean, focused reading interface built for VR. Supported Protestant versions currently include the **King James Version**, **American Standard Version**, and **World English Bible Version**. Supported Catholic versions currently include the **Catholic Public Domain Version** and the **Douay-Rheims Bible Version**. You can also read selections from the **Book of Common Prayer** for devotional use.
+
+Save your place automatically, create **bookmarks**, use **search** to find passages, and quickly jump to books and chapters whenever you want. Controller-based interaction makes it easy to navigate reading materials, saved locations, and devotional content.
 
 **Scripture Sanctuary** also supports **passthrough**, allowing you to blend your reading experience with your real surroundings when desired. Whether you want full immersion or a more grounded mixed-reality experience, the app is designed to help you slow down, focus, and spend meaningful time in the text.
 
@@ -17,11 +19,17 @@ You can also personalize the experience with features like **adjustable font siz
 - **Immersive Reading Environment**  
   Experience Scripture in a peaceful virtual space designed for focus and reflection.
 
-- **Protestant and Catholic Bible Versions**  
-  Read from multiple Bible translations and traditions within one immersive reading experience.
+- **Protestant Bible Versions**  
+  Read from the **King James Version**, **American Standard Version**, and **World English Bible Version**.
+
+- **Catholic Bible Versions**  
+  Read from the **Catholic Public Domain Version** and the **Douay-Rheims Bible Version**.
 
 - **Book of Common Prayer (BCP)**  
   Access prayer book content alongside Scripture for devotional reading and reflection.
+
+- **Themes**  
+  Choose from multiple visual themes to match your preferred reading style and atmosphere.
 
 - **Passthrough Support**  
   Blend the reading experience with your real surroundings for a comfortable mixed-reality option.
