@@ -8,7 +8,7 @@ A peaceful immersive reading experience for Meta Quest, designed for Scripture r
 
 Read from a growing library of **Protestant Bible versions**, **Catholic Bible versions**, and the **Book of Common Prayer (BCP)** in a clean, focused reading interface built for VR. Supported Protestant versions currently include the **King James Version**, **American Standard Version**, and **World English Bible Version**. Supported Catholic versions currently include the **Catholic Public Domain Version** and the **Douay-Rheims Bible Version**. You can also read selections from the **Book of Common Prayer** for devotional use.
 
-Save your place automatically, create **bookmarks**, use **search** to find passages, and quickly jump to books and chapters whenever you want. Controller-based interaction makes it easy to navigate reading materials, saved locations, and devotional content.
+Save your place automatically, create **bookmarks**, use **search** to find passages, and quickly jump to books and chapters whenever you want. You can interact with the app using either **Touch controllers** or **hand tracking**, making it easy to navigate reading materials, saved locations, and devotional content in the way that feels most natural to you.
 
 **Scripture Sanctuary** also supports **passthrough**, allowing you to blend your reading experience with your real surroundings when desired. Whether you want full immersion or a more grounded mixed-reality experience, the app is designed to help you slow down, focus, and spend meaningful time in the text.
 
@@ -28,6 +28,9 @@ You can also personalize the experience with features like **adjustable font siz
 - **Book of Common Prayer (BCP)**  
   Access prayer book content alongside Scripture for devotional reading and reflection.
 
+- **Touch Controllers and Hand Tracking**  
+  Navigate the app using either Meta Quest Touch controllers or hand tracking, depending on your preferred style of interaction.
+
 - **Themes**  
   Choose from multiple visual themes to match your preferred reading style and atmosphere.
 
@@ -44,7 +47,7 @@ You can also personalize the experience with features like **adjustable font siz
   Find passages more easily by searching the text directly inside the app.
 
 - **Quick Navigation**  
-  Move smoothly between versions, books, and chapters with intuitive controller-based controls.
+  Move smoothly between versions, books, and chapters with intuitive controls.
 
 - **Customizable Reading Experience**  
   Adjust font size, use bold text, change themes, and fine-tune panel opacity for comfort and clarity.
