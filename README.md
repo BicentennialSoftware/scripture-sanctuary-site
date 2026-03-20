@@ -61,5 +61,6 @@ You can also personalize the experience with features like **adjustable font siz
 ## Developer Information
 
 **Developer:** Bicentennial Software  
+bicentennialsoftware@gmail.com
 
 [Privacy Policy](privacy-policy.md)
